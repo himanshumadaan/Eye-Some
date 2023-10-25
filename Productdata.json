@@ -1,0 +1,71 @@
+
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Ardor Avaitor",
+        "price": "₹1999",
+        "image": "../images/Product-imgs/img-1.png",
+        "type": "Sports",
+        "discountPrice": "₹1899",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 2,
+        "name": "Caper Active",
+        "price": "₹1299",
+        "image": "../images/Product-imgs/img-2.png",
+        "type": "Sports",
+        "discountPrice": "₹1199",
+        "addtocart": "/images/first-page/plus.png"
+      },
+      {
+        "id": 3,
+        "name": "Alder Street",
+        "price": "₹2999",
+        "image": "../images/Product-imgs/img-3.png",
+        "type": "Sports",
+        "discountPrice": "₹2000",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 4,
+        "name": "Black boss",
+        "price": "₹2999",
+        "image": "../images/Product-imgs/img-4.png",
+        "type": "Sunglasses",
+        "discountPrice": "₹2399",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 5,
+        "name": "Hip Hop Candy",
+        "price": "₹1499",
+        "image": "../images/Product-imgs/img-5.png",
+        "type": "Sports",
+        "discountPrice": "₹1399",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 6,
+        "name": "Punk Cut Out",
+        "price": "₹2999",
+        "image": "../images/Product-imgs/img-6.png",
+        "type": "Sports",
+        "discountPrice": "₹2599",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 7,
+        "name": "Rounded Gold",
+        "price": "₹1299",
+        "image": "../images/Product-imgs/img-7.png",
+        "type": "Vision",
+        "discountPrice": "₹1000",
+        "addtocart": "images/first-page/plus.png"
+      }
+      
+    ]
+  }
+  

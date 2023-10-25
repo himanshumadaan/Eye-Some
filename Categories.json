@@ -1,0 +1,328 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Ardor Avaitor",
+            "rating":"4.5",
+            "discountPrice": "₹1899",
+            "price": "1999",
+            "image": "../images/categories/img1.png",
+            "gender":"male",
+            "categories":"Sports",
+            "type": "Ray-Ban"
+            
+        }, {
+            "id": 2,
+            "name": "Caper Active",
+            "rating":"4.8",
+            "discountPrice": "₹1199",
+            "price": "1299",
+            "image": "../images/categories/img2.png",
+            "gender":"male",
+            "categories":"Sports",
+            "type": "Persol"
+              
+        }, {
+            "id": 3,
+            "name": "Alder Street",
+            "rating":"4.7",
+            "discountPrice": "₹2000",
+            "price": "2999",
+            "image": "../images/categories/img3.png",
+            "gender":"unisex",
+            "categories":"Sports",
+            "type": "Kate Spade"
+              
+        }, {
+            "id": 4,
+            "name": "Corral Round",
+            "rating":"3.8",
+            "discountPrice": "₹2300",
+            "price": "2499",
+            "image": "../images/categories/img4.png",
+            "gender":"unisex",
+            "categories":"Sports",
+            "type": "Carrera"
+              
+        }, {
+            "id": 5,
+            "name": "Hyperclax Active",
+            "rating":"3.5",
+            "discountPrice": "₹3500",
+            "price": "3999",
+            "image": "../images/categories/img5.png",
+            "gender":"women",
+            "categories":"Sports",
+            "type": "Oakley"
+              
+        }, {
+            "id": 6,
+            "name": "Rose Gold Chase",
+            "rating":"4.3",
+            "discountPrice": "₹2599",
+            "price": "2999",
+            "image": "../images/categories/img6.png",
+            "gender":"women",
+            "categories":"Vision",
+            "type": "Ray-Ban"
+              
+        }, {
+            "id": 7,
+            "name": "Full Rim Airflex",
+            "rating":"4.8",
+            "discountPrice": "₹3999",
+            "price": "4999",
+            "image": "../images/categories/img7.png",
+            "gender":"unisex",
+            "categories":"Vision",
+            "type": "Carrera"
+              
+        }, {
+            "id": 8,
+            "name": "Mercury Rounded Red",
+            "rating":"4.8",
+            "discountPrice": "₹4300",
+            "price": "4999",
+            "image": "../images/categories/img8.png",
+            "gender":"male",
+            "categories":"Vision",
+            "type": "Carrera"
+              
+        }, {
+            "id": 9,
+            "name": "Candyfloss-302",
+            "rating":"4.5",
+            "discountPrice": "₹1899",
+            "price": "1999",
+            "image": "../images/categories/img9.png",
+            "gender":"male",
+            "categories":"Sunglasses",
+            "type": "Ray-Ban"
+              
+        }, {
+            "id": 10,
+            "name": "Phenomenal Mercury-02",
+            "rating":"2.8",
+            "discountPrice": "₹1200",
+            "price": "1299",
+            "image": "../images/categories/img10.png",
+            "gender":"unisex",
+            "categories":"Sunglasses",
+            "type": "Persol"
+              
+        }, {
+            "id": 11,
+            "name": "Black boss",
+            "rating":"4.7",
+            "discountPrice": "₹2399",
+            "price": "2999",
+            "image": "../images/categories/img11.png",
+            "gender":"unisex",
+            "categories":"Sunglasses",
+            "type": "Kate Spade"
+              
+        }, {
+            "id": 12,
+            "name": "Blue Ray Wayfarer",
+            "rating":"4.8",
+            "discountPrice": "₹4000",
+            "price": "4999",
+            "image": "../images/categories/img12.png",
+            "gender":"unisex",
+            "categories":"Sports",
+            "type": "Carrera"
+              
+        }, {
+            "id": 13,
+            "name": "Pernik",
+            "rating":"3.8",
+            "discountPrice": "₹1599",
+            "price": "2499",
+            "image": "../images/categories/img13.png",
+            "gender":"unisex",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 14,
+            "name": "Silistra",
+            "rating":"3.5",
+            "discountPrice": "₹3599",
+            "price": "3999",
+            "image": "../images/categories/img14.png",
+            "gender":"women",
+            "categories":"Sunglasses",
+            "type": "Oakley"
+              
+        }, {
+            "id": 15,
+            "name": "Full rim acetate black",
+            "rating":"4.5",
+            "discountPrice": "₹1900",
+            "price": "1999",
+            "image": "../images/categories/img15.png",
+            "gender":"women",
+            "categories":"Vision",
+            "type": "Ray-Ban"
+              
+        }, {
+            "id": 16,
+            "name": "Ruse",
+            "rating":"4.1",
+            "discountPrice": "₹1350",
+            "price": "1499",
+            "image": "../images/categories/img16.png",
+            "gender":"male",
+            "categories":"Sunglasses",
+            "type": "Kate Spade"
+              
+        }, {
+            "id": 17,
+            "name": "Yambol",
+            "rating":"4.3",
+            "discountPrice": "₹1999",
+            "price": "2999",
+            "image": "../images/categories/img17.png",
+            "gender":"male",
+            "categories":"Sunglasses",
+            "type": "Ray-Ban"
+              
+        }, {
+            "id": 18,
+            "name": "Roadies Rd-202",
+            "rating":"4.8",
+            "discountPrice": "₹4799",
+            "price": "4999",
+            "image": "../images/categories/img18.png",
+            "gender":"male",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 19,
+            "name": "Burgas",
+            "rating":"4.8",
+            "discountPrice": "₹4000",
+            "price": "4999",
+            "image": "../images/categories/img19.png",
+            "gender":"women",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 20,
+            "name": "Hip Hop Candy",
+            "rating":"4.1",
+            "discountPrice": "₹1399",
+            "price": "1499",
+            "image": "../images/categories/img20.png",
+            "gender":"male",
+            "categories":"Sports",
+            "type": "Kate Spade"
+              
+        }, {
+            "id": 21,
+            "name": "Punk Cut Out",
+            "rating":"4.3",
+            "discountPrice": "₹2599",
+            "price": "2999",
+            "image": "../images/categories/img21.png",
+            "gender":"women",
+            "categories":"Sports",
+            "type": "Ray-Ban"
+              
+        }, {
+            "id": 22,
+            "name": "Rounded Gold",
+            "rating":"2.8",
+            "discountPrice": "₹1000",
+            "price": "1299",
+            "image": "../images/categories/img22.png",
+            "gender":"male",
+            "categories":"Vision",
+            "type": "Persol"
+              
+        }, {
+            "id": 23,
+            "name": "Jungle Safari",
+            "rating":"4.7",
+            "discountPrice": "₹2899",
+            "price": "2999",
+            "image": "../images/categories/img23.png",
+            "gender":"unisex",
+            "categories":"Vision",
+            "type": "Kate Spade"
+              
+        }, {
+            "id": 24,
+            "name": "Burgas",
+            "rating":"4.8",
+            "discountPrice": "₹4700",
+            "price": "4999",
+            "image": "../images/categories/img24.png",
+            "gender":"women",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 25,
+            "name": "Sofia",
+            "rating":"4.8",
+            "discountPrice": "₹4399",
+            "price": "4999",
+            "image": "../images/categories/img25.png",
+            "gender":"women",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 26,
+            "name": "Plovediv",
+            "rating":"4.8",
+            "discountPrice": "₹3499",
+            "price": "4999",
+            "image": "../images/categories/img26.png",
+            "gender":"unisex",
+            "categories":"Sunglasses",
+            "type": "Carrera"
+              
+        }, {
+            "id": 27,
+            "name": "Airway Black",
+            "rating":"3.8",
+            "discountPrice": "₹1499",
+            "price": "2499",
+            "image": "../images/categories/img27.png",
+            "gender":"unisex",
+            "categories":"Vision",
+            "type": "Carrera"
+              
+        }, {
+            "id": 28,
+            "name": "Cat-eyed Gold",
+            "rating":"3.5",
+            "discountPrice": "₹3790",
+            "price": "3999",
+            "image": "../images/categories/img28.png",
+            "gender":"women",
+            "categories":"Vision",
+            "type": "Oakley"
+              
+        }, {
+            "id": 29,
+            "name": "Full Rim Steel Gray",
+            "rating":"4.1",
+            "discountPrice": "₹1459",
+            "price": "1499",
+            "image": "../images/categories/img29.png",
+            "gender":"male",
+            "categories":"Vision",
+            "type": "Kate Spade"
+              
+        }
+    ]
+}
+
+
+
+
